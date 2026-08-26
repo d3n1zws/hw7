@@ -1,5 +1,3 @@
-using System.Collections.Specialized;
-
 string word = Console.ReadLine();
 OnlyLetter(word);
 void OnlyLetter(string word)
